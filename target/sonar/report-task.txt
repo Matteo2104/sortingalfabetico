@@ -2,5 +2,5 @@ projectKey=alphabeticsorting
 serverUrl=http://localhost:9000
 serverVersion=9.4.0.54424
 dashboardUrl=http://localhost:9000/dashboard?id=alphabeticsorting
-ceTaskId=AYF_yiFIWVrMYGlV1jsK
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYF_yiFIWVrMYGlV1jsK
+ceTaskId=AYF_2laDWVrMYGlV1js4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYF_2laDWVrMYGlV1js4
