@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
 	public static void main(String[] args) {
-		List<String> names = new ArrayList<String>();
+		List<String> names = new ArrayList<>();
 		
 		names.add("matteo");
 		names.add("vanessa");
@@ -13,6 +13,6 @@ public class Main {
 		names.add("antonio");
 		names.add("cristian");
 		
-		System.out.println(Sorting.sort(names)); 
+		Sorting.sort(names);
 	}
 }

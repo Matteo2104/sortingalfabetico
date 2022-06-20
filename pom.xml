@@ -7,5 +7,8 @@
 	<properties>
 	  <sonar.organization>matteo2104</sonar.organization>
 	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	  
+	  <maven.compiler.source>1.8</maven.compiler.source>
+      <maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 </project>
