@@ -7,7 +7,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import alphabeticsorting.Sorting;
+import sortingalfabetico.Sorting;
 
 public class TestSorting {
 	

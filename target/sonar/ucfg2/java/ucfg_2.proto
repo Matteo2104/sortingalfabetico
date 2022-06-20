@@ -1,0 +1,44 @@
+
+@sortingalfabetico.Sorting#sort(Ljava/util/List;)Ljava/util/List;\
+RC:/corso/ws_eclipse/sortingalfabetico/src/main/java/sortingalfabetico/Sorting.java
+ 
+( "1*ø	
+1\
+RC:/corso/ws_eclipse/sortingalfabetico/src/main/java/sortingalfabetico/Sorting.java ( Œ
+\
+RC:/corso/ws_eclipse/sortingalfabetico/src/main/java/sortingalfabetico/Sorting.java) (6
+%0java.lang.String[]"java.lang.String[]
+\
+RC:/corso/ws_eclipse/sortingalfabetico/src/main/java/sortingalfabetico/Sorting.java (7
+%1java.lang.String[]">java.util.List#toArray([Ljava/lang/Object;)[Ljava/lang/Object;*
+
+namesjava.util.List*
+
+%0java.lang.String[]2toArray([Ljava/lang/Object;)¨
+¥
+\
+RC:/corso/ws_eclipse/sortingalfabetico/src/main/java/sortingalfabetico/Sorting.java (8#
+partialVectorjava.lang.String[]"__id*
+
+%1java.lang.String[]×
+Ô
+\
+RC:/corso/ws_eclipse/sortingalfabetico/src/main/java/sortingalfabetico/Sorting.java (
+
+%2void"+java.util.Arrays#sort([Ljava/lang/Object;)V*"
+java.util.Arrays*%
+#
+partialVectorjava.lang.String[]ò
+ï
+\
+RC:/corso/ws_eclipse/sortingalfabetico/src/main/java/sortingalfabetico/Sorting.java	 (%
+%3java.util.List"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Arrays*%
+#
+partialVectorjava.lang.String[]"v
+\
+RC:/corso/ws_eclipse/sortingalfabetico/src/main/java/sortingalfabetico/Sorting.java (&
+
+%3java.util.List:
+namesjava.util.ListB"
+sortingalfabetico.Sorting

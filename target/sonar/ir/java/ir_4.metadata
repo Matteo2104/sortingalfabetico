@@ -1,0 +1,3 @@
+sortingalfabetico.Sorting#sort(Ljava/util/List;)Ljava/util/List;
+java.util.Arrays#sort([Ljava/lang/Object;)V
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
